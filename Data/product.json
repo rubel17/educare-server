@@ -1,0 +1,51 @@
+[
+	{	"id": 1,
+		"courseName": "Computer Science Engineering",
+		"description": "A Computer Engineer is a professional who manages and designs computer hardware systems. They often specialize in either software or hardware. Still, they must be able to program because their tasks include developing new programs for computers as well as updating old ones as needed.",
+		"course body":"The major subjects included in CSE undergraduate course are Operating System, Programming Languages, Computer Software.",
+		"Index": 1,
+		"image": "https://www.getfullformof.com/wp-content/uploads/2020/06/CSE-@.jpeg",
+		"Programming":"4 year"
+	},
+	{	"id": 2,
+		"courseName": "Software engineering",
+		"description": "Software engineers focus on applying the principles of engineering to software development. Their role includes analyzing and modifying existing software as well as designing, constructing and testing end-user applications that meet user needs — all through software programming languages.",
+		"course body":"The duration of the Bachelor course is 3-4 years with Software Engineering as a specialization.",
+		"Index": 2,
+		"image": "https://www.ncertbooks.guru/wp-content/uploads/2020/08/Software-Engineering-Courses.png",
+		"Programming": "3 year"
+	},
+	{	"id": 3,
+		"courseName": "civil engineering",
+		"description": "Civil engineers design major transportation projects. Civil engineers conceive, design, build, supervise, operate, construct and maintain infrastructure projects and systems in the public and private sector, including roads, buildings, airports, tunnels, dams, bridges, and systems for water supply and sewage treatment.",
+		"course body":"The Bachelor of Science in Civil Engineering degree is 4 years program,",
+		"Index": 3,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiTgdcmfZxbm-_NdzJSlLb1Z9cjyfa1BF_4w&usqp=CAU",
+		"Programming": "4 year"
+	},
+	{	"id": 4,
+		"courseName": "Electrical and Electronics Engineering",
+		"description": "Electrical and electronics engineers design and develop complex electrical systems and electronic components and products. They must keep track of multiple design elements and technical characteristics when performing these tasks.",
+		"course body":"B.Sc. in EEE program curriculum consists of 148 credits.",
+		"Index": 4,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6t8uREM8KnFga3nLys6dr6J35Jx4U87nCQ&usqp=CAU",
+		"Programming": "4 year"
+	},
+	{	"id": 5,
+		"courseName": "Electronics and Communications Engineering",
+		"description": "Electronics and communications engineers analyze and interpret data as well as modify communications processes and provide general technical guidance for clients. Graduates can find work in a variety of fields, including networking, telecommunications, the internet, radio, and computing technologies.",
+		"course body":"Electronics and Communication Engineering (ECE) compiles in Communication Engineering and core Electronics Engineering. ",
+		"Index": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6ksjrmKRl8ecaC-vcSd5xifgX59BLGyg3g&usqp=CAU",
+		"Programming": "4 year"
+	},
+	{	"id": 6,
+		"courseName": "B.pharmacy",
+		"description": "This program is designed specifically for students who wish to pursue a career in different areas of drug discovery, formulation development, drug manufacturing, pharmaceutical marketing, hospital and clinical pharmacy, scientific research, and higher education and teaching.",
+		"course body":"Bachelor of Pharmacy or B.Pharma is a 4-year UG degree program",
+		"Index": 6,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-73xNttSUosrXJebYtQmzc_C9cHSs9bA_A&usqp=CAU",
+		"Programming": "4 year"
+	}
+	
+]
