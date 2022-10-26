@@ -8,7 +8,7 @@ const Port = process.env.Port || 5000;
 const allCourses = require("./Data/product.json");
 
 app.get("/", (req, res) =>{
-    res.send("now server is running");
+    res.send("No data Available");
 });
 app.get("/allCourses", (req, res) =>{
     res.send(allCourses);
